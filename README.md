@@ -20,9 +20,12 @@ In this project, we have developed an advanced photo-generator app that allows u
 
 Ready to unleash your creativity? Here's how you can get started with our AI-Enhanced Photo Generator:
 
-1. Visit [Lightning AI Studio](https://lightning.ai/atadanicen/studios/generative-ai-photo-generator?section=featured&query=generative+ai) to directly start using the app.
-2. Follow the prompts to upload your photo and customize your image generation preferences.
-3. Sit back and watch as our AI technology works its magic to create stunning images featuring your face.
+  <a target="_blank" href="https://lightning.ai/atadanicen/studios/generative-ai-photo-generator"><p>1. Visit [Lightning AI Studio](https://lightning.ai/atadanicen/studios/generative-ai-photo-generator?section=featured&query=generative+ai) to directly start using the app.</p>
+  <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/>
+</a>
+
+3. Follow the prompts to upload your photo and customize your image generation preferences.
+4. Sit back and watch as our AI technology works its magic to create stunning images featuring your face.
 
 ## Demo Video
 
