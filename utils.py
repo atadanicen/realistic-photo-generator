@@ -144,7 +144,7 @@ def generate_image(uploaded_img, prompt, negative_prompt, ip_model):
 
 
 def get_image(prompt, negative_prompt, image_file):
-    url = "https://8000-01hrd0mes72464wh1p3wczsv16.cloudspaces.litng.ai/generate_image"
+    url = "http://127.0.0.1:8000/generate_image"
     files = {"image": ("image.png", image_file, "image/png")}
     params = {"prompt": prompt, "negative_prompt": negative_prompt}
 
